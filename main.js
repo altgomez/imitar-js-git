@@ -12,3 +12,6 @@ lue_button.onclick = changeColor
 const red_button = document.getElementById('red_button')
 red_button.onclick = changeColor
 
+const green_button = document.getElementById('green_button')
+green_button.onclick = changeColor
+
